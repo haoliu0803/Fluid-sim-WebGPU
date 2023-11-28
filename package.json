@@ -19,7 +19,9 @@
     "preview": "vite preview"
   },
   "devDependencies": {
+    "@types/dat.gui": "^0.7.12",
     "@webgpu/types": "^0.1.39",
+    "dat.gui": "^0.7.9",
     "typescript": "^5.2.2",
     "vite": "^5.0.0"
   },
